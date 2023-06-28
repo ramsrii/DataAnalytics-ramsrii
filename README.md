@@ -1,4 +1,4 @@
-# DataAnalytics_Narayanan
+# DataAnalytics@ramsrii
 
 Hi all,
       This is my repository which i am using to prepare for Data Analyst role.
